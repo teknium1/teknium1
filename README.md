@@ -34,4 +34,5 @@ I've been part of several intriguing projects on GitHub. Here are a few of them:
 ## 📫 Get in Touch 
 
 - Twitter: https://twitter.com/Teknium1
+- Discord: Teknium
 
