@@ -12,7 +12,7 @@ I've contributed significantly to the development of several opensource LLMs und
 
 Here are a couple of them: 
 
-- [Nous-Hermes-Llama2-13b](https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b) - A Hermes model built on llama 1 and llama 2, which I'm well known for.
+- [Nous-Hermes-Llama2-13b](https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b) - A Hermes model built on llama 1 and llama 2.
 - [GPT4-x-Vicuna-13b](https://huggingface.co/NousResearch/gpt4-x-vicuna-13b) - A Vicuna model built on GPT-4.
 
 ### 💼 CarperAI / StabilityAI
