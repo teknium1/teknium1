@@ -15,6 +15,21 @@ Here are a couple of them:
 - [Nous-Hermes-Llama2-13b](https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b) - A Hermes model built on llama 1 and llama 2, which I'm well known for.
 - [GPT4-x-Vicuna-13b](https://huggingface.co/NousResearch/gpt4-x-vicuna-13b) - A Vicuna model built on GPT-4.
 
+### 💼 CarperAI / StabilityAI
+Have worked on researching, planning ablations, and cleaning/filtering the dataset for:
+
+- [Beluga/Free Willy 2](https://huggingface.co/stabilityai/FreeWilly2) - Orca replication on 70b Llama-2
+- [Beluga/Free-Willy-1](https://huggingface.co/stabilityai/FreeWilly1-Delta-SafeTensor) - Orca replication on 65b Llama-1
+
+Both are 10% Orca replications trained on Llama-1 and Llama-2 70B. Also working on domain expert knowledge and task distillation.
+
+### 💼 Open Orca
+Working with the Open Orca team on data cleaning, networking, ablations, and more:
+
+- [Open Orca HuggingFace Repo](https://huggingface.co/Open-Orca) 
+
+Another Orca paper replication, and more
+
 ### 🚀 Personal Projects 
 
 On my personal huggingface, [Teknium](https://huggingface.co/teknium), I have released several models:
