@@ -1,9 +1,5 @@
 # Hello, I'm [Teknium1](https://github.com/teknium1) 👋
 
-<p align="center">
-  <img src="https://github.com/teknium1/teknium1/assets/127238744/59537b73-d26b-4766-a1ca-718436b84e8e">
-</p>
-
 I'm a Python Programmer, AI Enthusiast, and Co-founder of [NousResearch](https://nousresearch.com/). 
 
 My work primarily involves AI and Data Engineering, contributing primarily by releasing open source Large Language Model (LLMs) and datasets.
