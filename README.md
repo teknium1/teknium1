@@ -1,6 +1,6 @@
 # Hello, I'm [Teknium1](https://github.com/teknium1) 👋
 
-I'm a Python Programmer, AI Enthusiast, and Co-founder of [NousResearch](https://nousresearch.com/). 
+I'm a Python Programmer, AI Enthusiast, and a Co-founder of [NousResearch](https://nousresearch.com/). 
 
 My work primarily involves AI and Data Engineering, contributing primarily by releasing open source Large Language Model (LLMs) and datasets.
 
@@ -32,7 +32,7 @@ Another Orca paper replication, and more
 
 ### 🚀 Personal Projects 
 
-On my personal huggingface, [Teknium](https://huggingface.co/teknium), I have released several models:
+On my personal huggingface, [Teknium](https://huggingface.co/teknium), I have released several models, including my work on Replit-3b Model:
 
 - [Replit-Instruct 3B](https://huggingface.co/teknium/Replit-v1-CodeInstruct-3B) - This model doubled the code performance of the LLM.
 
