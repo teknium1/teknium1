@@ -32,8 +32,10 @@ Another Orca paper replication, and more
 
 ### 🚀 Personal Projects 
 
-On my personal huggingface, [Teknium](https://huggingface.co/teknium), I have released several models, including my work on Replit-3b Model:
+On my personal huggingface, [Teknium](https://huggingface.co/teknium), I have released several models, including my work on Replit-3b Model & OpenHermes:
 
+- [OpenHermes 13B](https://huggingface.co/teknium/OpenHermes-13B) - An Open Sourced version of Nous-Hermes!
+- [OpenHermes Dataset](https://huggingface.co/datasets/teknium/openhermes) - The publicly available version of Hermes' dataset.
 - [Replit-Instruct 3B](https://huggingface.co/teknium/Replit-v1-CodeInstruct-3B) - This model doubled the code performance of the LLM.
 
 ### 💻 Github Projects 
