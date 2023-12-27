@@ -40,8 +40,8 @@ I've been part of several intriguing projects on GitHub. Here are a few of them:
 ### 💼 CarperAI / StabilityAI
 Have worked on researching, planning ablations, and cleaning/filtering the dataset for:
 
-- [Beluga/Free Willy 2](https://huggingface.co/stabilityai/FreeWilly2) - Orca replication on 70b Llama-2
-- [Beluga/Free-Willy-1](https://huggingface.co/stabilityai/FreeWilly1-Delta-SafeTensor) - Orca replication on 65b Llama-1
+- [StableBeluga/Free Willy 2](https://huggingface.co/stabilityai/FreeWilly2) - Orca replication on 70b Llama-2
+- [StableBeluga/Free-Willy-1](https://huggingface.co/stabilityai/FreeWilly1-Delta-SafeTensor) - Orca replication on 65b Llama-1
 
 Both are 10% Orca replications trained on Llama-1 and Llama-2 70B. Also working on domain expert knowledge and task distillation.
 
