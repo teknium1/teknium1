@@ -15,6 +15,17 @@ Here are a couple of them:
 - [Nous-Hermes-Llama2-13b](https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b) - A Hermes model built on llama 1 and llama 2.
 - [GPT4-x-Vicuna-13b](https://huggingface.co/NousResearch/gpt4-x-vicuna-13b) - A Vicuna model built on GPT-4.
 
+### 🚀 Personal Projects 
+
+On my personal huggingface, [Teknium](https://huggingface.co/teknium), I have released several models, including my work on Replit-3b Model & OpenHermes:
+
+- [DataForge - Economics](https://huggingface.co/datasets/teknium/dataforge-economics) - A dataset built by my data synthesis pipeline (not public), DataForge
+- [OpenHermes 2.5 Mistral 7B](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) - Most powerful Open Hermes, with much improved coding skills than OpenHermes 2
+- [OpenHermes 2 Mistral 7B](https://huggingface.co/teknium/OpenHermes-2-Mistral-7B) - Version 2 of the Open Hermes series.
+- [OpenHermes 13B](https://huggingface.co/teknium/OpenHermes-13B) - An Open Sourced version of Nous-Hermes!
+- [OpenHermes Dataset](https://huggingface.co/datasets/teknium/openhermes) - The publicly available version of Hermes' dataset.
+- [Replit-Instruct 3B](https://huggingface.co/teknium/Replit-v1-CodeInstruct-3B) - This model doubled the code performance of the LLM.
+
 ### 💻 Github Projects 
 
 I've been part of several intriguing projects on GitHub. Here are a few of them:
@@ -40,15 +51,6 @@ Working with the Open Orca team on data cleaning, networking, ablations, and mor
 - [Open Orca HuggingFace Repo](https://huggingface.co/Open-Orca) 
 
 Another Orca paper replication, and more
-
-### 🚀 Personal Projects 
-
-On my personal huggingface, [Teknium](https://huggingface.co/teknium), I have released several models, including my work on Replit-3b Model & OpenHermes:
-
-- [OpenHermes 2 Mistral 7B](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) - Most powerful Hermes model on Mistral 7B.
-- [OpenHermes 13B](https://huggingface.co/teknium/OpenHermes-13B) - An Open Sourced version of Nous-Hermes!
-- [OpenHermes Dataset](https://huggingface.co/datasets/teknium/openhermes) - The publicly available version of Hermes' dataset.
-- [Replit-Instruct 3B](https://huggingface.co/teknium/Replit-v1-CodeInstruct-3B) - This model doubled the code performance of the LLM.
 - [alpaca-roleplay-discordbot](https://github.com/teknium1/alpaca-roleplay-discordbot) - An LLM discord bot that roleplays!
 
 ## 📫 Get in Touch 
