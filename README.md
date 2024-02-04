@@ -11,7 +11,8 @@ My work primarily involves AI and Data Engineering, contributing primarily by re
 I've contributed significantly to the development of several opensource LLMs under [Nous Research's huggingface organization](https://huggingface.co/NousResearch). 
 
 Here are a couple of them: 
-- [Nous-Hermes-2-Yi-34B](https://huggingface.co/NousResearch/Nous-Hermes-2-Yi-34B) - Nous' latest most powerful LLM yet.
+- [Nous-Hermes-2-Mixtral-8x7B](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO) - Nous' latest most powerful LLM yet.
+- [Nous-Hermes-2-Yi-34B](https://huggingface.co/NousResearch/Nous-Hermes-2-Yi-34B) - Hermes 2 on Yi-34B.
 - [Nous-Hermes-Llama2-13b](https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b) - A Hermes model built on llama 1 and llama 2.
 - [GPT4-x-Vicuna-13b](https://huggingface.co/NousResearch/gpt4-x-vicuna-13b) - A Vicuna model built on GPT-4.
 
