@@ -2,16 +2,19 @@
 
 I'm a Python Programmer, AI Enthusiast, and a Co-founder of [NousResearch](https://nousresearch.com/). 
 
-My work primarily involves AI and Data Engineering, contributing primarily by releasing open source Large Language Model (LLMs) and datasets.
+My work primarily involves AI and Data Engineering, contributing primarily by releasing open source Large Language Model (LLMs), datasets, synthetic data pipelines, and RL environments.
 
 ## 🚀 My Work 
 
 ### 💼 Nous Research 
 
-I've contributed significantly to the development of several opensource LLMs under [Nous Research's huggingface organization](https://huggingface.co/NousResearch). 
+I've contributed significantly to the development of several opensource LLMs under [Nous Research](https://huggingface.co/NousResearch). 
 
 Here are a couple of them: 
-- [Nous-Hermes-2-Mixtral-8x7B](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO) - Nous' latest most powerful LLM yet.
+- [Atropos](https://github.com/nousresearch/atropos) - RL Environments built on Nous' framework for RL Environments with LLMs.
+- [Hermes-4 Series](https://hermes4.nousresearch.com/) - Nous' latest most powerful LLM yet, with hybrid reasoning capabilities.
+- [Hermes-3 Series](https://nousresearch.com/hermes3/) - The third Hermes model series release.
+- [Nous-Hermes-2-Mixtral-8x7B](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO) 
 - [Nous-Hermes-2-Yi-34B](https://huggingface.co/NousResearch/Nous-Hermes-2-Yi-34B) - Hermes 2 on Yi-34B.
 - [Nous-Hermes-Llama2-13b](https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b) - A Hermes model built on llama 1 and llama 2.
 - [GPT4-x-Vicuna-13b](https://huggingface.co/NousResearch/gpt4-x-vicuna-13b) - A Vicuna model built on GPT-4.
