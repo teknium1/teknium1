@@ -57,6 +57,6 @@ Working with the Open Orca team on data cleaning, networking, ablations, and mor
 
 ## 📫 Get in Touch 
 
-- Twitter: https://twitter.com/Teknium1
+- Twitter: https://twitter.com/Teknium
 - Discord: Teknium
 
