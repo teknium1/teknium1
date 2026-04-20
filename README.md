@@ -1,25 +1,33 @@
 # Hello, I'm [Teknium1](https://github.com/teknium1) 👋
 
-I'm a Python Programmer, AI Enthusiast, and a Co-founder of [NousResearch](https://nousresearch.com/). 
+I'm a Python Programmer, AI Enthusiast, and a Co-founder of [NousResearch](https://nousresearch.com/).
 
-My work primarily involves AI and Data Engineering, contributing primarily by releasing open source Large Language Model (LLMs), datasets, synthetic data pipelines, and RL environments.
+My work primarily involves AI and Data Engineering, contributing primarily by building open source AI agents, releasing open source Large Language Models (LLMs), datasets, synthetic data pipelines, and RL environments.
 
-## 🚀 My Work 
+## 🚀 My Work
 
-### 💼 Nous Research 
+### 🤖 Hermes Agent
 
-I've contributed significantly to the development of several opensource LLMs under [Nous Research](https://huggingface.co/NousResearch). 
+My current focus is [Hermes Agent](https://github.com/NousResearch/hermes-agent) — the agent that grows with you. A terminal-native, extensible AI coding & personal agent with persistent memory, skills, and multi-platform gateways (Telegram, Discord, Slack, WhatsApp, Signal, iMessage, and more).
 
-Here are a couple of them: 
-- [Atropos](https://github.com/nousresearch/atropos) - RL Environments built on Nous' framework for RL Environments with LLMs.
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) - Main repository. Runs locally, supports every major LLM provider, and learns from every session.
+- [Hermes Agent Docs](https://hermes-agent.nousresearch.com/docs/) - Full documentation, quickstart, and provider setup guides.
+
+### 💼 Nous Research
+
+I've contributed significantly to the development of several opensource LLMs and research projects under [Nous Research](https://huggingface.co/NousResearch).
+
+Here are a few of them:
+
 - [Hermes-4 Series](https://hermes4.nousresearch.com/) - Nous' latest most powerful LLM yet, with hybrid reasoning capabilities.
+- [Atropos](https://github.com/nousresearch/atropos) - Nous' framework for RL Environments with LLMs — collecting and evaluating LLM trajectories through diverse environments.
 - [Hermes-3 Series](https://nousresearch.com/hermes3/) - The third Hermes model series release.
-- [Nous-Hermes-2-Mixtral-8x7B](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO) 
+- [Nous-Hermes-2-Mixtral-8x7B](https://huggingface.co/NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO)
 - [Nous-Hermes-2-Yi-34B](https://huggingface.co/NousResearch/Nous-Hermes-2-Yi-34B) - Hermes 2 on Yi-34B.
 - [Nous-Hermes-Llama2-13b](https://huggingface.co/NousResearch/Nous-Hermes-Llama2-13b) - A Hermes model built on llama 1 and llama 2.
 - [GPT4-x-Vicuna-13b](https://huggingface.co/NousResearch/gpt4-x-vicuna-13b) - A Vicuna model built on GPT-4.
 
-### 🚀 Personal Projects 
+### 🚀 Personal Projects
 
 On my personal huggingface, [Teknium](https://huggingface.co/teknium), I have released several models, including my work on Replit-3b Model & OpenHermes:
 
@@ -30,7 +38,7 @@ On my personal huggingface, [Teknium](https://huggingface.co/teknium), I have re
 - [OpenHermes Dataset](https://huggingface.co/datasets/teknium/openhermes) - The publicly available version of Hermes' dataset.
 - [Replit-Instruct 3B](https://huggingface.co/teknium/Replit-v1-CodeInstruct-3B) - This model doubled the code performance of the LLM.
 
-### 💻 Github Projects 
+### 💻 Github Projects
 
 I've been part of several intriguing projects on GitHub. Here are a few of them:
 
@@ -55,8 +63,7 @@ Working with the Open Orca team on data cleaning, networking, ablations, and mor
 
 - [Open Orca HuggingFace Repo](https://huggingface.co/Open-Orca) - An Open Sourced Orca paper replication
 
-## 📫 Get in Touch 
+## 📫 Get in Touch
 
 - Twitter: https://twitter.com/Teknium
 - Discord: Teknium
-
